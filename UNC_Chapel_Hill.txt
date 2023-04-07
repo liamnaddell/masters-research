@@ -1,0 +1,53 @@
+Types of programs offered?
+ Course graduate degrees and Thesis
+
+How expensive?
+todo:
+
+What are the requirements?
+
+Computer Science
+
+    COMP 311 Computer Organization (offered as COMP 411 prior to Fall 2020)
+    COMP 210 Data Structures (offered as COMP 410 prior to Fall 2020)
+    COMP 550 Algorithms and Analysis
+    Any two of the following
+        COMP 521 Files and Databases
+        COMP 520 Compilers
+        COMP 530 Operating Systems
+    COMP 524 Programming Language Concepts
+    COMP 541 Digital Logic and Computer Design
+    COMP 455 Models of Languages and Computation
+
+Mathematics, Statistics, and Physics
+
+    MATH 233 Calculus of Functions of Several Variables
+    COMP 283 Discrete Structures or MATH 381 Discrete Mathematics
+    MATH 347 Linear Algebra for Applications
+    MATH 661 Scientific Computing I (Introduction to Numerical Analsis)
+    STOR 435 Introduction to Probability
+
+I can take courses at UNC-Charlotte to recognise these
+
+Program Product Requirement
+
+Each student is required to have programmed and documented a product-quality program product. (Co-op will work for this)
+
+
+Technical Writing Requirement
+
+
+Comprehensive Paper Option
+The paper should be either a project report that includes a comprehensive survey of the literature, or a survey and synthesis of a substantial body of work. The document satisfying the technical writing requirement should be a product of working closely with a faculty advisor, the primary reader, through multiple iterations of writing refinement and feedback.  The paper is then presented to the secondary reader for review. A requirement is that both readers judge the paper to be of M.S. thesis or publication quality with respect to both substance and presentation. This option must be reported on Form CS-08.
+
+Thesis Option
+A written thesis is based either on research or on the solution and documentation of a substantial problem in application or system programming. The subject is chosen jointly by the student and the thesis adviser. The student selects a guidance committee of at least three members of the Graduate Faculty. The student must submit a brief written thesis proposal to the committee members during the early stages of thesis work.
+
+Outside Review Option
+A student who has written certain technical material in academic or nonacademic work may use this material to satisfy the writing requirement. The student should apply to the Graduate Studies Committee on Form CS-04. The relevant documentation should be attached; it will be returned.
+
+Not part-time friendly? 
+
+
+todo: application deadlines
+
