@@ -1,0 +1,74 @@
+Types of programs
+-----------------
+
+Master of Science (MSc) — a 17-month research-based master’s program in which students work with a supervisor to complete a major research project.  
+
+Master of Science in Applied Computing (MScAC) — a 16-month applied research program, combining eight months of graduate courses with an eight-month applied research internship at one of our partner companies. Students have the option to follow one of four concentrations during the 16 months: Computer Science, Data Science, Applied Math or Quantum Computing.  
+
+Doctor of Philosophy (PhD) — a research-intensive program in which students work with a supervisor to write a doctoral dissertation in their research area. The program is four years long if entered with a Master's degree and five years if entered directly from a bachelor's degree.
+
+
+When to apply
+-------------
+For fall 2024, apply in October 2023
+
+
+Costs
+-----
+Todo, look up how funding works by program
+
+Critera for MSC
+-------
+Admission Requirements
+
+    Completion of an appropriate undergraduate degree in computer science or a related discipline, such as engineering, mathematics, or statistics. 
+
+    A standing that is equivalent to at least B+ (U of T 77–79% or 3.3/4.0) in the final year of study. 
+
+    English-language proficiency according to University requirements.
+
+Applications are evaluated in their totality: grades, statement of purpose, letters of reference, and any supplementary information submitted are all taken into account.
+Admission decisions are made in the context of all other applications in the same admission cycle. For this reason, the graduate office and individual faculty cannot respond to requests for evaluation of applications in isolation. Admission to our graduate programs is very competitive and meeting the minimum admission requirements does not guarantee admission: only 5–10% of applicants receive an offer of admission.
+
+Critera for MSCAC
+-----------------
+Note: MSCAC looks cool, its half industry half edu
+
+    Completed or be the process of completing an appropriate undergraduate degree for the concentration they are applying to.
+
+    A standing equivalent to at least B+ (U of T 77-79%) in their final year (i.e., two terms) of study (the equivalent of 5 full credits, or 10 half credits).
+
+        If you completed your undergraduate degree outside of Canada, please use the University of Toronto's International Credentials Equivalencies Tool to determine what credentials are required for admission.
+
+    Achieved English-language proficiency according to the requirements set by the School of Graduate Studies.
+
+    Work experience (including co-op placements or internships) is preferred, but not required.
+
+    Research experience (including summer research assistantships or internships) is preferred, but not required.
+
+    Applicants are required to submit the following documents:
+
+        Copies of all academic transcripts pertaining to qualifications gained from undergraduate onwards (high school certificates are not required)
+
+        Resume/CV (1–2 pages in length)
+
+        Answers to program-specific questions addressing their interest in the preferred concentration(s) and objectives for the program.
+
+        Details of three referees (names, affiliations i.e university/company, and e-mail addresses)
+
+        ELP test scores (if applicable)
+
+        GRE scores (if applicable)
+
+        Any other relevant information you would like to share with the admissions committee e.g. links to projects, research papers, personal Github repos, etc.
+
+
+"Ideally 2-3 references", with 2 being academic
+
+Three letters of reference from faculty and/or employers, with preference for at least one such letter from a faculty member in Computer Science.
+
+Applicants must indicate a preference for the concentration in Computer Science in their application. Admission is competitive, and students who are admitted to the MScAC program are not automatically admitted to this concentration upon request.
+
+Direct entry phd
+----------------
+todo: not that interested

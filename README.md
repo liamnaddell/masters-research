@@ -15,3 +15,5 @@ What about part time?
 (American) What is in-state tuition?
 
 
+Todo:
+what is GRE?
