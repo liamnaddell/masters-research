@@ -1,0 +1,66 @@
+https://www.cs.ubc.ca/students/grad/graduate-programs
+
+What are the programs
+---------------------
+
+There are two choices available to MSc students: the thesis options (12 or 6 credit thesis) and the essay option (3 credit essay).  The choice between the two options depends on what the student hopes to achieve with the MSc degree, and whether the student wants to pursue a PhD degree. Each choice has its own advantages.
+
+There are two types of MSc theses: the 12 credit and the 6 credit thesis.  Either type allows the student to learn how to do research.  In choosing to write a thesis, a student will have a better understanding of what goes on in a research establishment. If the student continues on to the PhD program, the thesis option provides valuable experience in performing research and writing it up appropriately.  Since PhD work is judged by external examiners, choosing the thesis option provides valuable experience in preparation for the PhD.  For students who have not decided on whether to pursue a PhD, the choice of the thesis MSc option will provide a taste of performing and writing up research.  The 6 credit thesis is available, but not encouraged, since it typically will require substantially more than half the work of the 12 credit thesis for both the student and the supervisor.
+
+
+
+When to apply
+-------------
+December 15 deadline for MSc & PhD programs.
+
+
+Todo:
+-----
+Funding + costs
+
+Not part-time friendly
+
+Grading stress
+--------------
+
+A minimum of 60% must be obtained in any course taken by a student enrolled in the MSc program for the student to be granted Pass Standing.  However, only six credits of Pass standing may be counted towards a MSc program.  For all other courses, a minimum of 68% must be obtained.  For students in the essay MSc, please refer to the Comprehensive Course Information for detailed information.
+
+
+
+Applying as a "canadian"
+------------------------
+
+ormally, applicants for a master's degree program must hold the academic equivalent of a four-year bachelor's degree from UBC including one of the following:
+
+    A minimum overall average in the B+ range (76% at UBC) in third- and fourth-year courses.
+    Academic standing with at least 12 credits of third- or fourth-year courses in the A grade range (80% or higher at UBC) in the field of study.
+
+Alternatively, applicants who do not meet the requirements stated above, but who have had other significant formal training, relevant professional experience, and/or otherwise possess demonstrable knowledge or expertise that would prepare them adequately for successful study in a specific graduate program, may be granted admission on the recommendation of the appropriate graduate program and approval of the Dean of the Faculty of Graduate Studies.
+
+Applying as a burger eating freedom lover
+-----------------------------------------
+
+Normally, applicants for a master's degree program must hold the academic equivalent of a four-year bachelor's degree from UBC including one of the following:
+
+    A minimum overall average in the B+ range (76% at UBC) in third- and fourth-year courses.
+    Academic standing with at least 12 credits of third- or fourth-year courses in the A grade range (80% or higher at UBC) in the field of study.
+
+Alternatively, applicants who do not meet the requirements stated above, but who have had other significant formal training, relevant professional experience, and/or otherwise possess demonstrable knowledge or expertise that would prepare them adequately for successful study in a specific graduate program, may be granted admission on the recommendation of the appropriate graduate program and approval of the Dean of the Faculty of Graduate Studies.
+
+Course requirements
+-------------------
+
+The following selection of courses is intended for students with a related background (e.g. mathematics or physics). When we consider your application, we normally expect that you have successfully completed these courses or their equivalents at other institutions.
+
+    A basic mathematics and data structures course corresponding to CPSC 221, requiring a substantial amount of programming
+    An intermediate Algorithm Design and Analysis course corresponding to CPSC 320
+     
+
+Further, students are expected to have at least four courses chosen from at least three of the following areas. Of the four courses, at least one must be at the 400-level.
+
+https://www.cs.ubc.ca/students/grad/prospective/applying/eligibility/list-required-undergraduate-courses
+
+
+I think I meet the course critera, but the lesson is to take more D-levels in core CS fields (maybe not embedded paco course)
+
+

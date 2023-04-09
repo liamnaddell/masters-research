@@ -17,3 +17,5 @@ What about part time?
 
 Todo:
 what is GRE?
+what courses do you generally need to apply?
+
