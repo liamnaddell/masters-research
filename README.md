@@ -21,10 +21,18 @@
 * Todo:
 * what is GRE?
 * what courses do you generally need to apply?
+* Does getting a masters then phd hurt getting a phd during admissions?
 
 
 ### Lessons so far
 
 1. Make sure you know which courses are required before entry
 2. References, References References, the ratio is 2 professors, 1 work reference. 
-3. Graduate school be pretty cheap??
+3. Graduate school *can* be pretty cheap??
+4. Undergraduate research / technical writing ability!!!!!
+5. Statement of purpose (What do you want to do with a masters)
+
+weird requirements:
+
+1. Cornell: You better be good at TA >:(
+

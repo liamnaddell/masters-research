@@ -1,0 +1,15 @@
+
+"Students in the program serve as teaching assistants and receive full tuition plus a stipend."
+
+
+stress moment:
+	"Students who are admitted into the program serve as full time teaching assistants (TA’s) during each of the four semesters. This involves a fifteen-hour commitment to TA duties each week. In exchange, the student receives full tuition, a stipend to cover basic living expenses, and health insurance. Summer instructorships, TA-ships, and research assistantships are available but are not guaranteed. Serving as a TA is an integral part of the program. To remain in good standing in the program, students have to be among the top TAs in their assigned courses. TA performance is evaluated at the end of each semester."
+
+Cornell adminsions requirements:
+--------------------------------
+
+A Bachelors degree in CS is expected. Applicants must have a proven record of excellence as an undergraduate grader/TA in a computer science course. Experience as an undergraduate researcher is highly recommended.
+
+"An application consists of (a) transcripts of all college-level work, (b) three letters of recommendation including at least one that addresses expository skills and the ability to work in a classroom setting, and (c) an essay that explains how the degree program and the anticipated thesis area resonates with your career plans. GRE scores are optional.  Lack of GRE scores will not harm an applicant's chances."
+
+
