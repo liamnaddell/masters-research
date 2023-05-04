@@ -19,7 +19,7 @@
 
 
 * Todo:
-* what is GRE?
+* what is GRE? (what sections do I need to take?, when do I need to take it)
 * what courses do you generally need to apply?
 * Does getting a masters then phd hurt getting a phd during admissions?
 
@@ -36,3 +36,4 @@ weird requirements:
 
 1. Cornell: You better be good at TA >:(
 
+cs.washington.edu site has amazing advice on it
